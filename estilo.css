@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f2f5;
+    
+}
+.div-1{
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-left: 83px;
+    width: 580px;
+}
+
+.linhaDivisoria{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+form{
+    background: #fff;
+    padding-bottom: 24px;
+    padding-top: 10px;
+    align-items: center;
+    border: none;   
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+}
+
+.quadrado{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.logo{
+    margin:0px;
+    height: 105px;
+    margin: -28px;
+}
+
+.descricao{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+ 
+}
+
+.descricao-2{
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+    text-align: center;
+} 
+
+.espacamento{
+    padding-bottom: 112px;
+    padding-top: 72px;
+}
+
+.input{
+   
+    font-size: 20px;
+}
+
+.btn{
+    height: 50px;
+    font-size: 18px;
+}
+
+#contentCurve{
+    border-bottom: 1px solid #dddfe2;
+    margin-bottom: 0px;
+}
+
+li a {
+    font-size: 14px;
+    font-family: inherit;
+    margin:0;
+    padding:0;
+}
+
+dl, ol, ul{
+    margin-bottom: 0rem!important;
+}
+
+footer{
+    height: 31vh;
+}
